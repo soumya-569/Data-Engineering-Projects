@@ -1,4 +1,6 @@
 
+-- I haven't done much things here, most of the things I did in Databricks & later in Power BI Dax
+
 ------------------------
 --Initialize Environemnt
 ------------------------
